@@ -138,10 +138,11 @@ Cada archivo implementa un tipo de visualización o tabla específica:
    ```
 
 4. **Abre tu navegador en:**  
-   - http://localhost:8050
+   - [http://localhost:8050]
 
 5. **Para ver la prueba de funcionamiento en tiempo real, ingresa al siguiente link:**  
    [https://southern-idea-452214-h7.ue.r.appspot.com/](https://southern-idea-452214-h7.ue.r.appspot.com/)
+
    Implementada en Google Cloud - App Engine (Plataforma de apps administrada)
 
 ---
