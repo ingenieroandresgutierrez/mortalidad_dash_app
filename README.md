@@ -224,6 +224,3 @@ python app.py
 4. Establece el comando de inicio: `python app.py`
 
 ---
-
-**Autor**: Andrés Gutiérrez - los datos son aportados Proyecto de análisis educativo y demográfico. Colombia 2024.
-
